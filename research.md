@@ -47,7 +47,7 @@ Indirect Research
     * http://www.cs.wisc.edu/wpis/papers/popl95.pdf
 
 - Simon Holm Jensen, Anders Møller, Peter Thiemann. “Interprocedural Analysis with Lazy Propagation”. SAS 2010. 
-    * http://dx.doi.org/10.1007/978-3-642-15769-1_20
+    * https://doi.org/10.1007/978-3-642-15769-1_20
     * http://www.daimi.au.dk/~amoeller/papers/lazy/paper.pdf
 
 - Dimitrios Vardoulakis and Olin Shivers. CFA2: a Context-Free Approach to Control-Flow Analysis. ESOP 2010
